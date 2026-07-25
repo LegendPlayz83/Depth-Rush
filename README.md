@@ -2,7 +2,7 @@
 
 A fast-paced underwater arcade racer built for the browser. Avoid obstacles, navigate tight trenches, and set the fastest time possible.
 
-**[Play on itch.io](https://your-username.itch.io/your-game-page)**
+**[Play on itch.io](https://aditya338400.itch.io/depth-rush)**
 
 ## 🎮 How to Play
 * **Controls:** [e.g., WASD / Arrow Keys to steer, Space to boost]
